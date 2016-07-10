@@ -56,7 +56,10 @@
 #site-nav {
   display: none;
   z-index: 5;
-  -webkit-transition-timing-function: ease-in-out;
+  -webkit-animation-duration: 0.75s;
+  -moz-animation-duration: 0.75s;
+  -o-animation-duration: 0.75s;
+  animation-duration: 0.75s;
   @include media($medium) {
     -webkit-animation-duration: 1s;
     -moz-animation-duration: 1s;

@@ -5,7 +5,7 @@ locale: en_US
 description: Code to learn.
 logo: #site-logo.png
 search: true
-url: https://lantran.github.io/
+url: https://lantran.github.io
 
 # Jekyll configuration
 

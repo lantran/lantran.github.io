@@ -11,8 +11,9 @@
 
 - title: Projects
   url: https://github.com/lantran
+
 #- title: Theme Setup
 #  url: /theme-setup/
 
-#- title: Search
-#  url: /search/
+- title: Search
+  url: /search/

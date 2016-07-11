@@ -1,3 +1,4 @@
+<!---
 ---
 layout: post
 title: Sample Post
@@ -13,7 +14,7 @@ comments: false
 share: false
 author: billy_rick
 ---
-
+-->
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1

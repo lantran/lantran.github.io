@@ -13,7 +13,7 @@ Recently, my boss asked me to clean up the remote branches which were merged but
 In this post, I will try to summarize what I learn from that post because I think I understand more about Git. There are 3 kinds of branches you have to care about:
 
 * Your local branches
-* References to remote branches (i.e origin/xyz in your local remote, this is the part I don't)
+* References to remote branches (i.e origin/xyz in your local remote, this is the part I don't know)
 * Remote branches on the server
 
 ### Local branches

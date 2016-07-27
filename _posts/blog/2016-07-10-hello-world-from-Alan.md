@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World from Alan"
-excerpt: "You only live once"
+excerpt: "You only live once."
 categories: blog
 tags: []
 image:

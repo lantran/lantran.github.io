@@ -15,15 +15,13 @@ Let me write it down so that I can remember.
 
 ## Ubuntu GNOME
 
-Everyone knows Ubuntu is one the most popular Linux distro with the ease of use and I totally agree about that. So, what the heck is Ubuntu GNOME? It is a Ubuntu using GNOME desktop environment! Historically, Ubuntu use Unity as its default desktop environment. You can find it from [here.](https://ubuntugnome.org/)
+Everyone knows Ubuntu is one the most popular Linux distro with the ease of use and I totally agree about that. So, what the heck is Ubuntu GNOME? It is a Ubuntu using GNOME desktop environment! Historically, Ubuntu uses Unity as its default desktop environment. You can find it from [here.](https://ubuntugnome.org/)
 
-Tweak tool is your friend to customize your dekstop in GNOME! I use [Flattr icons](https://www.gnome-look.org/content/show.php/Flattr?content=161099) and [Paper theme](https://snwh.org/paper). And I actually love it.
+Tweak tool is your friend to customize your dekstop in GNOME! I use [Flattr icons](https://www.gnome-look.org/content/show.php/Flattr?content=161099) and [Paper theme](https://snwh.org/paper). And I actually love them.
 
 ## Z Shell
 
-This is the first time ever I try a shell other than bash! Because I didn't actually know what a shell is! People always try to throw jargon words at you. 
-
-So, what is a Linux shell? 
+This is the first time ever I try a shell other than bash! Because I didn't actually know what a shell is! People always try to throw jargon words at you. So, what is a Linux shell? 
 
 Computers understand the language of 0's and 1's called binary language.
 

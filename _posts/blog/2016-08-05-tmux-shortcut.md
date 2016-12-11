@@ -11,22 +11,22 @@ To continue the advanture for my [new dev enviroment]({% post_url 2016-07-25-my-
 
 First of all, the common thing you have to do is chaning the **prefix/ binding key** from `C-b` to `C-a` ( `C = Ctrl`, `M = Alt`)
 
-| Action                     |  Shortcut / Command   |
-|:---------------------------|:------------|
-| split window horizontally  | `C-a`, `|`  |
-| split window vertically 	 | `C-a`, `-`  |
-| switch to left panel		 | `M-LeftArrow`| 
-| switch to right panel		 | `M-RightArrow`| 
-| switch to above panel		 | `M-UpArrow`| 
-| switch to below panel		 | `M-DownArrow`| 
-| close a panel 			 | `C-d` or `exit` |
-| create new window 		 | `C-a`, `c` |
-| move to previous window    | `C-a`, `p` |
-| move to next window 		 | `C-a`, `n` |
-| move to arbitrary	windown	 |  `C-a`, `<number>`| 
-| detach a session		 | `C-a`, `d` |
-| reattach to a session 		 | `tmux attach -t <number>` |
-| list all sessions    | `tmux ls` |
-| name a new session 		 | `tmux new -s <seesion-name>` |
-| rename an existing session 		 | `tmux rename-session -t  0 <new-name>` |
-| help 		 | `C-a`, `?` |
+| Action                     |  Shortcut / Command      			 |
+|:---------------------------|:--------------------------------------|
+| split window horizontally  | `C-a`, `|`  							 |
+| split window vertically 	 | `C-a`, `-`  							 |
+| switch to left panel		 | `M-LeftArrow`						 | 
+| switch to right panel		 | `M-RightArrow`						 | 
+| switch to above panel		 | `M-UpArrow`							 | 
+| switch to below panel		 | `M-DownArrow`						 | 
+| close a panel 			 | `C-d` or `exit` 						 |
+| create new window 		 | `C-a`, `c` 							 |
+| move to previous window    | `C-a`, `p` 							 |
+| move to next window 		 | `C-a`, `n` 							 |
+| move to arbitrary	windown	 |  `C-a`, `<number>`					 | 
+| detach a session		     | `C-a`, `d` 							 |
+| reattach to a session      | `tmux attach -t <number>`             |
+| list all sessions    		 | `tmux ls`                			 |
+| name a new session 		 | `tmux new -s <seesion-name>`  		 |
+| rename an existing session | `tmux rename-session -t  0 <new-name>`|
+| help 		 				 | `C-a`, `?`							 |
